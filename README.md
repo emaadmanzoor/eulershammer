@@ -12,7 +12,4 @@ Inspiration
 Team
 ----
 
-   * Ramprasad Joshi
    * Emaad Ahmed Manzoor
-   * Meghna Baijal
-   * Amit Panda
